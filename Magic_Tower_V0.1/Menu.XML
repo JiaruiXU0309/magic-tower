@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu title="Menu" isFunction="No">
+	<menu1 title="Restart or Quit" isFunction="No">
+		<menu2 title="Restart" isFunction="restartGame"></menu2>
+		<menu2 title="Quit" isFunction="quitGame"></menu2>
+	</menu1>
+	<menu1 title="Save or Load" isFunction="No">
+		<menu2 title="Save" isFunction="saveGame"></menu2>
+		<menu2 title="Load" isFunction="loadGame"></menu2>
+	</menu1>
+</menu>
